@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrivingActivity</string>
+    <string name="edit_vehicle">vehicle</string>
+    <string name="prev_odometer">Previous odometer:</string>
+    <string name="edit_odometer">odometer</string>
+    <string name="edit_description">description</string>
+    <string name="button_start">Start trip</string>
+    <string name="button_stop">Finish trip</string>
+    
+    
+    
+    <string name="button_save">Save</string>
+    
+    <string name="button_save_edit">Save &amp; edit</string>
+</resources>
